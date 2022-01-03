@@ -1,0 +1,253 @@
+Gaganyaan is an Indian crewed orbital spacecraft intended to be the formative spacecraft of the Indian Human Spaceflight Programme. The spacecraft is being designed to carry three people, and a planned upgraded version will be equipped with rendezvous and docking capability. In its maiden crewed mission, Indian Space Research Organisation (ISRO)'s largely autonomous 5.3 t (12,000 lb) capsule will orbit the Earth at 400 km (250 mi) altitude for up to seven days with a two or three-person crew on board. The first crewed mission was originally planned to be launched on ISRO's GSLV Mk III in December 2021,[8][9] but this has since been delayed to no earlier than 2023.[7]
+
+This Hindustan Aeronautics Limited (HAL) manufactured crew module had its first un-crewed experimental flight on 18 December 2014.[10] As of May 2019, design of the crew module has been completed.[11] Defence Research and Development Organisation (DRDO) will provide support for critical human-centric systems and technologies like space grade food, crew healthcare, radiation measurement and protection, parachutes for the safe recovery of the crew module and fire suppression system.[12]
+
+On 11 June 2020, it was announced that while the first uncrewed Gaganyaan launch has been delayed due to COVID-19 pandemic in India,[13] overall timeline for crewed launches is expected to remain unaffected.[14]
+
+
+Contents
+1	History
+1.1	Funding and infrastructure
+2	Description
+2.1	Crew Module
+2.2	Service Module
+3	Development
+3.1	Test flights
+3.2	Test flight profile
+4	Testing
+4.1	Crew Module Atmospheric Re-entry Experiment
+4.2	Pad Abort Test
+4.3	Long duration hot test - Vikas engine
+4.4	Service Module Propulsion System
+5	Vyommitra
+6	See also
+7	References
+History
+Preliminary studies and technological development of Gaganyaan started in 2006 under the generic name "Orbital Vehicle". The plan was to design a simple capsule with an endurance of about a week in space, a capacity of two astronauts, and a splashdown landing after re-entry. The design was finalized by March 2008 and was submitted to the Government of India for funding. The funding for the Indian Human Spaceflight Programme was sanctioned in February 2009,[15] but it fell short of full political support and obtained limited developmental funding.[15] Initially, the first uncrewed flight of the orbital vehicle was proposed to be in 2013,[16][17] then it was revised to 2016.[18] However, in April 2012 it was reported that funding problems placed the future of the project in serious doubt;[19] and in August 2013 it was announced that all crewed spaceflight efforts by India had been designated as being "off ISRO's priority list".[20] By early 2014 the project was reconsidered and was one of the main beneficiaries of a substantial budget increase announced in February 2014.[21] ISRO is developing the Gaganyaan orbital vehicle on the tests performed with their scaled 550 kg Space Capsule Recovery Experiment (SRE), which was launched and recovered in January 2007.[22][23]
+
+The latest push for the Indian Human Spaceflight Programme took place in 2017,[24] and it was accepted and formally announced by the Prime Minister Narendra Modi on 15 August 2018.[25] The current design calls for a crew of three.[3] ISRO will perform four biological and two physical science experiments related to micro-gravity during the Gaganyaan mission.[26] ISRO is planning to replace hydrazine for green propellant in Gaganyaan mission for which Liquid Propulsion Systems Centre (LPSC) is already working on a monopropellant blended formulation consisting of hydroxylammonium nitrate (HAN), ammonium nitrate, methanol and water.[27][28]
+
+As of October, 2021, ISRO selected five science experiments that will be conducted on Gaganyaan. The payloads will be developed by Indian Institute of Space Science and Technology (IIST), University of Agricultural Sciences, Dharwad (UASD), Tata Institute of Fundamental Research (TIFR), IIT Patna, Indian Institute of Chemical Technology (IICT) and Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR). Out of the five, two are biological experiments which will be conducted by IIST, UASD and TIFR that will include kidney stone formation and Sirtuin 1 gene marker effects in Drosophila melanogaster. IIT Patna will run experiment on heat sink that can handle very high heat flux, IICT will perform crystallization phenomenon and JNCASR will check fluid mixing characteristics.[29]
+
+Funding and infrastructure
+A crewed spacecraft would require about ₹12,400 crore (US$1.77 billion) over a period of seven years, including the ₹5,000 crore (US$0.7 billion) for the initial work of the crewed spacecraft during the Eleventh Five-Year Plan (2007–2012) out of which the Government released ₹ 50 crore (US$7 million) in 2007-2008.[30][31] In December 2018, the government approved further ₹10,000 crore (US$1.5 billion) for a 7-days crewed flight of 3 astronauts to take place by 2021.[8]
+
+Madhavan Chandradathan, director of Satish Dhawan Space Centre (SDSC), stated that ISRO would need to set up an astronaut training facility in Bangalore. Newly established Human Space Flight Centre (HSFC) will coordinate the IHSF efforts.[32] Existing launch facilities will be upgraded for launches under Indian Human Spaceflight project [33][34] with extra facilities needed for launch escape systems.[31] Russia is likely to provide astronaut training.[35] In spring 2009, the full-scale mock-up of crew capsule of Gaganyaan was built and delivered to Satish Dhawan Space Centre for training of astronauts.[36]
+
+India has already successfully developed and tested several building blocks, including re-entry space capsule, pad abort test, safe crew ejection mechanism in case of rocket failure, flight suit developed by Defence Bioengineering and Electromedical Laboratory (DEBEL) and the powerful GSLV-MkIII launch vehicle.[37] Having met all required technological keystones, the Indian Human Spaceflight Programme was accepted and formally announced by the Prime Minister Narendra Modi on 15 August 2018. Gaganyaan will be the first crewed spacecraft under this programme.[citation needed]
+
+ISRO's Human Space Flight Centre and Glavcosmos, which is a subsidiary of the Russian state corporation Roscosmos, signed an agreement on 1 July 2019 for cooperation in the selection, support, medical examination and space training of Indian astronauts.[38] An ISRO Technical Liaison Unit (ITLU) will be set up in Moscow to facilitate the development of some key technologies and establishment of special facilities which are essential to support life in space.[39]
+
+On 25 October 2019, ISRO's Human Space Flight Centre and Glavcosmos signed a contract to evaluate the possibility of using Russian life support systems and thermal control for Gaganyaan.[40] Glavkosmos has also contracted NPP Zvezda for manufacturing customized IVA flight-suits for Indian astronauts.[41][42][43] ISRO is planning to develop a ground station for Gaganyaan mission at Cocos (Keeling) Islands, and after a brief discussion with Australian Space Agency, a temporary ground station for the mission has been setup by ISRO in Cocos (Keeling) Islands, as of 2021.[27]
+
+Description
+Crew Module
+Gaganyaan crew module is a fully autonomous 5.3 t (12,000 lb) spacecraft designed to carry a 3-member crew to orbit and safely return to the Earth after a mission duration of up to seven days.[1] The crew module is equipped with two parachutes for redundancy, while one parachute is good enough for safe splashdown. The parachutes would reduce the speed of the crew module from over 216 m/s (710 ft/s) to under 11 m/s (36 ft/s) at splashdown.[44]
+
+The space capsule will have life support and environmental control systems. It will be equipped with emergency mission abort and a Crew Escape System (CES) that can be activated during the first stage or second rocket stage burn.[45] The nose of the original version of the orbital vehicle was free for a docking mechanism, but primary entry was evidently through a side hatch secured by explosive bolts.[46]
+
+Service Module
+Its 2.9 t (6,400 lb)[1] service module is powered by liquid propellant engines. The crew module is mated to the service module, and together they constitute 8.2 t (18,000 lb) orbital module.[1]
+
+The Service Module Propulsion System (SMPS) will help in orbit raising maneuver of Gaganyaan to reach 400 km in low earth orbit (LEO) and remain connected during deorbit burn until atmospheric reentry. It will use an unified bipropellant system consisting of MON-3 and Monomethylhydrazine as oxidizer and fuel, having five main engines derived from ISRO's liquid apogee motor with 440 N (99 lbf) thrust and sixteen 100 N reaction control system (RCS) thrusters.
+
+Upon reentry, Service Module will detach itself from the spacecraft. The propulsion system will use a unified bipropellant system consisting of MON-3 and Monomethylhydrazine as oxidizer and fuel. It will have five main engines derived from ISRO's liquid apogee motor with 440 N (99 lbf) thrust and sixteen 100 N reaction control system (RCS) thrusters.
+
+Development
+Following two non-crewed orbital flight demonstrations of the spacecraft, a crewed Gaganyaan is slated to be launched on the GSLV Mk III launcher no earlier than 2023.[7] Though the spacecraft is designed to carry 3 people, it is likely that the first flight will carry one person only.[47]
+
+Test flights
+Development timeline of Gaganyaan
+Flight	Date	Regime	Crew	Notes	Outcome
+Re-entry Test	18 December 2014	Sub-orbital	N/A	Sub-orbital test of scaled down boilerplate Gaganyaan capsule, launched aboard the sub-orbital first test flight of ISRO's GSLV Mark III rocket.	Success
+Pad Abort Test	5 July 2018	Atmospheric	N/A	4-minute test of Gaganyaan's Launch abort system from launch pad at Satish Dhawan Space Centre.	Success
+Gaganyaan 1	June 2022[6]	LEO	N/A	First orbital test flight of Gaganyaan capsule.	Planned
+Gaganyaan 2	2023[7]	LEO	N/A	Second orbital test flight of Gaganyaan capsule.	Planned
+Gaganyaan 3	2023[7]	LEO	India TBA
+India TBA
+India TBA	First crewed flight of Gaganyaan, will carry 1-3 Indian astronauts on a short orbital test flight.[8][48]	Planned
+Test flight profile
+About 16 minutes after liftoff from the Satish Dhawan Space Centre (SDSC), Sriharikota, the rocket will inject the spacecraft into an orbit 300–400 km (190–250 mi) above Earth. When ready to land, its service module and solar panels will be disposed off before reentry. The capsule would return for a parachute splashdown in the Bay of Bengal.[49]
+
+Testing
+Crew Module Atmospheric Re-entry Experiment
+
+Test of water landing of CARE on 18 December 2014
+Main article: Crew Module Atmospheric Re-entry Experiment
+On 13 February 2014, Hindustan Aeronautics Limited handed over the first boilerplate prototype of Crew Module structural assembly to ISRO for Crew Module Atmospheric Re-entry Experiment (CARE).[10][50] ISRO's Vikram Sarabhai Space Centre would equip the Crew Module with systems necessary for life support, navigation, guidance and control systems.
+
+ISRO undertook an uncrewed test launch of the vehicle aboard the GSLV Mark III X1, for an experimental sub-orbital flight on 18 December 2014. The GSLV Mk3 launcher with a dummy upper cryogenic stage (filled with liquid nitrogen to simulate weight of fuel) was launched at 9:30 a.m. from the second launch pad at Satish Dhawan Space Center in Sriharikota.[51][52]
+
+The crew module separated from the rocket at an altitude of 126 km. On board motors controlled and reduced the speed of the module until an altitude of 80 km (50 mi). Thrusters were shut off at that altitude and atmospheric drag further reduced speed of the capsule.
+
+The module heat shield was expected to experience temperature in excess of 1,600 °C (2,910 °F). Parachutes were deployed at an altitude of 15 km (9.3 mi) to slow down the module which performed a splashdown in the Bay of Bengal near Andaman and Nicobar Islands.[53][54]
+
+
+This flight was used to test orbital injection, separation and re-entry procedures and systems of the Crew Capsule. Also tested were the capsule separation, heat shields and aerobraking systems, deployment of parachute, retro-firing, splashdown, flotation systems and procedures to recover the Crew Capsule from the Bay of Bengal.[55][56] Inflight launch abort and parachute tests are expected to be conducted by the end of 2019.[57]
+
+Pad Abort Test
+
+Info-graphic on ISRO's first Pad Abort Test (PAT-01) displayed at 6th Bangalore Space Expo 2018, 6-8 September 2018.
+Main article: ISRO Pad Abort Test
+The Indian Space Research Organisation's Pad Abort Test was conducted successfully on 5 July 2018.[58] As of September 2021, Vikram Sarabhai Space Centre (VSSC) is integrating a test vehicle to conduct an unmanned flight test of Crew Escape System (CES) before the official launch of Gaganyaan mission. The test vehicle will be ready by the end of 2021.[59]
+
+Long duration hot test - Vikas engine
+
+Vikas engine undergoing long duration hot test at Principal Test Stand, ISRO Propulsion Complex on 14 July 2021.
+Main article: Vikas (rocket engine)
+On July 14, 2021 ISRO conducted third long duration hot test of Vikas engine for core L110 liquid stage of GSLV Mark III at ISRO Propulsion Complex as part of engine qualification requirement of Gaganyaan mission. The engine was successfully test fired for a duration of 240 seconds validating all the required performance parameters.[60]
+
+The Vikas engine is used to power the second stage of the Polar Satellite Launch Vehicle (PSLV), boosters and second stage of the Geosynchronous Satellite Launch Vehicle (GSLV) Mark I and II and also the core stage of GSLV Mark III. The propellant loading for Vikas engine in PSLV, GSLV Mark I and II is 40 tons, while in GSLV Mark III is 55 tons.
+
+Service Module Propulsion System
+ISRO on 28 August 2021 successfully tested System Demonstration Model (SDM) of Service Module Propulsion System (SMPS) that will be integrated into Gaganyaan spacecraft. During on ground testing at ISRO Propulsion Complex (IPRC), SDM was fired for a duration of 450 seconds which matched the pre-test prediction data using five main engines and eight RCS thrusters. Each 440 N thrust engine will also be tested individually for longer duration involving various parameters to gain human-rating certification.[61][62]
+
+Vyommitra
+Main article: Vyommitra
+On 22 January 2020, ISRO announced Vyommitra, a female-looking robot who will accompany the other astronauts in the mission. ISRO aims not to fly animals onboard experimental missions unlike other nations that have carried out human space flight. Instead, it will fly humanoid robots for a better understanding of what weightlessness and radiation do to the human body during long durations in space.[63]
+
+Vyommitra is expected to be onboard uncrewed Gaganyaan missions to perform microgravity experiments, monitor module parameters, and support astronauts in crewed missions by simulating functions exact like human.[64] It is programmed to speak Hindi and English and perform multiple tasks.[65][66][67][68]
+
+It can detect and give out warnings if environmental changes within the cabin get uncomfortable to astronauts and change the air condition, it can also take up postures suited for launch and tasks and take commands.[69]
+
+See also
+	Wikimedia Commons has media related to Gaganyaan.
+	Spaceflight portal
+Human spaceflight
+Human Space Flight Centre
+Indian Human Spaceflight Programme
+Space exploration
+References
+ Expert Talk by Dr R.Venkatraman, Dy.Director on Challenges in launch pad systems for Gaganyaan (Video). SDSC SHAR. 6 October 2020. Retrieved 6 October 2020.
+ Indian Manned Spacecraft, Astronautix, 2014
+ Gaganyaan: Astronauts assigned to the mission are likely to be pilots, crew module design to be finalised soon. India Today, 20 January 2019
+ Kunhikrishnan, P. "India's Human Spaceflight Programme: GAGANYAAN" (PDF). UNOOSA. Archived from the original (PDF) on 20 February 2019. Retrieved 20 February 2019.
+ "Integrated Cabin Pressure Control System" (PDF). isro.gov.in. ISRO. p. 11. Archived from the original (PDF) on 21 August 2019. Retrieved 23 August 2019.
+ Kumar, Chethan (22 July 2021). "Gaganyaan 1st uncrewed mission unlikely before June 2022; no life support systems testing". The Times of India. Retrieved 23 July 2021.
+ Singh, Surendra (11 November 2021). "Covid stalled Gaganyaan project, manned mission will finally be launched in 2023: Isro chief". The Times of India. Retrieved 23 November 2021.
+ Singh, Surendra (29 December 2018). "Rs 10,000 crore plan to send 3 Indians to space by 2022". The Times of India. Retrieved 29 December 2018.
+ Gaganyaan mission to take Indian astronaut to space by 2022: PM Modi, The Hindu, 15 August 2018
+ "Archived copy". Archived from the original on 22 February 2014. Retrieved 17 February 2014.
+ "India's first solar mission in 2020: ISRO chairman". The Times of India. 4 May 2019. Retrieved 5 May 2019.
+ "Gaganyaan: DRDO to provide special space food and emergency survival kit for ISRO's manned mission". The Financial Express. 4 March 2020. Retrieved 6 March 2020.
+ "No Gaganyaan unmanned flight this year". The Weather Channel. 11 June 2020. Retrieved 13 June 2020.
+ "India's first human space mission "Gaganyaan" will not be affected by COVID pandemic: Dr.Jitendra Singh". 3 July 2020. Archived from the original on 3 July 2020. Retrieved 3 July 2020.
+ Priyadarshi, Siddhanta (23 February 2009). "Planning Commission Okays ISRO Manned Space Flight Program". Indian Express. p. 2.
+ "All India 10th, 12th Board, University, Entrance Exam Results 2018". examresults.net.
+ "Gaganyan: How to send an Indian into space". 16 August 2018.
+ Beary, Habib (27 January 2010). "India announces first manned space mission". BBC News. Bangalore. Retrieved 5 May 2010.
+ "Spaceflight stuck due to budget: CAG". The Times of India. New Delhi. 25 April 2012. Retrieved 11 June 2013.
+ Press Trust of India. "Human space flight mission off ISRO priority list". Retrieved 18 August 2013.
+ "Rs 171 crore boost to manned space project". The Times of India.
+ China View: India's first space capsule returns to earth, Archived 2008-05-02 at the Wayback Machine 22 January 2007
+ ISRO Press Release Archived 2008-05-14 at the Wayback Machine 22 January 2007
+ THE DECISION FOR INDIAN HUMAN SPACEFLIGHT PROGRAMME. POLITICAL PERSPECTIVES, NATIONAL RELEVANCE AND TECHNOLOGICAL CHALLENGES Mukund Kadursrinivas Raoa, Sridhara Murthi K. Rb, and Prasad M. 68th International Astronautical Congress (IAC), Adelaide, Australia, 25–29 September 2017
+ Indian will take national flag to space on board Gaganyaan by 2022, says PM Narendra Modi in Independence Day speech Hindustan Times, 15 August 2018
+ "Lok Sabha, Unstarred Question number 2259" (PDF). 4 March 2020. Archived (PDF) from the original on 5 March 2020. Retrieved 4 March 2020.
+ "Gaganyaan, India's human space mission, will use 'green propulsion': ISRO". Hindustan Times. 26 March 2021. Retrieved 1 April 2021.
+ Nandakumar, T. (13 May 2018). "ISRO making green propellant". The Hindu. ISSN 0971-751X. Retrieved 1 April 2021.
+ Kumar, Chethan (21 October 2021). "Kidney stone formation to gene marking: 5 experiments shortlisted for Isro mission; MoUs in place". The Times of India. Retrieved 26 October 2021.
+ "Eleventh Five year Plan (2007-2012) proposals for Indian space program" (PDF).
+ Mishra, Bibhu Ranjan (8 October 2008). "ISRO plans manned mission to moon in 2014". Sriharikota Range (SHAR): Business Standard. Retrieved 14 June 2013.
+ Ds, Madhumathi (11 January 2019). "ISRO starts Human Space Flight centre". The Hindu. ISSN 0971-751X. Retrieved 11 January 2019.
+ "India's human space programme gets a fillip". Retrieved 11 January 2019. Initially, the plan was the construct a new launch pad for the human space flight, but Sivan told the Express that due to paucity of time one of the two existing launch pads is being modified to meet the requirement.
+ "Question number 1733 in Rajya Sabha" (PDF). Retrieved 11 January 2019. It is proposed to utilise the existing launch pad with augmentation for carrying out the initial flights under the Gaganyaan manned space flight programme.[permanent dead link]
+ Russia to Help India In 2022 Space Mission: Russian Envoy NDTV, 3 December 2018
+ T.S. Subramanian (2 May 2009), "Model of space crew module ready", The Hindu, Chennai, archived from the original on 4 May 2009, retrieved 14 June 2013
+ India's manned space mission is on, Cabinet okays Rs 10,000 crore plan, Economic Times, 28 December 2018
+ "Gaganyaan: India chooses Russia to pick and train astronauts". The Times of India. 1 July 2019. Retrieved 1 August 2019.
+ Singh, Surendra (31 July 2019). "Isro will set up unit in Moscow to develop technology needed for Gaganyaan mission". The Times of India. Retrieved 1 August 2019.
+ "Glavkosmos to Help India with Heating and Life Support Systems for Gaganyaan Spacecraft". glavkosmos.com. Archived from the original on 25 October 2019. Retrieved 25 October 2019.
+ "News. Russia to make spacesuits for Indian cosmonauts". www.glavkosmos.com. Retrieved 23 July 2021.
+ Pramanik, Ayan; Krishnan, Raghu. "After Gaganyaan, ISRO chairman K Sivan to set sights on space station". The Economic Times. Retrieved 23 July 2021.
+ Peri, Dinakar (28 August 2021). "Indian pilots to return to Russia soon for customised space suits". The Hindu. ISSN 0971-751X. Retrieved 3 September 2021.
+ "Agra lab parachutes to bring back India astronauts". Deccan Herald. 4 January 2019. Retrieved 11 January 2019.
+ Ray, Kalyan (4 January 2009). "ISRO gears up for manned space mission". Deccan Herald. Shillong. Archived from the original on 3 February 2014. Retrieved 14 June 2013.
+ "Encyclopedia Astronautica Index: 1". astronautix.com. Archived from the original on 1 December 2008.
+ "India's first manned mission Gaganyaan may take 1 astronaut". Hindustan Times. 8 January 2020. Retrieved 9 January 2020.
+ Dutt, Anonna (8 January 2020). "First Gaganyaan spaceflight likely to carry only one astronaut, and it'll be a man". ThePrint. Retrieved 10 February 2020.
+ "ISRO inches closer to manned mission". The Times of India. 10 January 2014. Archived from the original on 12 January 2014. Retrieved 13 January 2014. "We will be checking the crew capsule for all parameters".
+ "Human space flight prog: HAL hands over crew module assembly to ISRO". @businessline.
+ Kandavel, Sangeetha (18 December 2014). "GSLV Mark III takes to the skies in test flight" – via thehindu.com.
+ "India to launch unmanned crew module in December". The Economic Times. 30 October 2014. Retrieved 30 October 2014.
+ First Experimental Flight of India's Next Generation Launch Vehicle GSLV Mk-III Successful - ISRO Press Release - 18 December 2014
+ "India successfully launches its heaviest rocket GSLV-Mk III". International Business Times UK. 18 December 2014.
+ GSLV Mark III takes to the skies in test flight The Hindu, 19 December 2014
+ India launches largest rocket and unmanned capsule BBC News, 18 December 2014
+ "Episode 90 – An update on ISRO's activities with S. Somanath and R. Umamaheshwaran". Astro talk UK. 24 October 2019. Retrieved 30 October 2019.
+ "ISRO conducts pad abort test for Indian human space program". nasaspaceflight.com. NASASpaceFlight.com. Retrieved 5 July 2018.
+ Kumar, Chethan (27 September 2021). "Gaganyaan: ISRO readies for Crew Escape System test vehicle flights". The Times of India. Retrieved 28 September 2021.
+ "ISRO successfully conducts 3rd Vikas Engine hot test for Gaganyaan mission". Mint. 14 July 2021. Retrieved 1 September 2021.
+ "Successful hot Test of Gaganyaan Service Module Propulsion System – System Demonstration Model (SDM) - ISRO". ISRO. 28 August 2021. Retrieved 31 August 2021.
+ MP, Sidharth (30 August 2021). "ISRO successfully tests a system that will propel India's human-carrying spacecraft". WION. Retrieved 31 August 2021.
+ "Why is India sending robots into space?". 25 July 2019. Retrieved 25 January 2020.
+ "ISRO to send humanoid Vyommitra in unmanned Gaganyaan spacecraft ahead of human spaceflight". The Economic Times. 24 January 2020. Retrieved 29 August 2021.
+ Jan 22, Chethan Kumar | TNN | Updated; 2020; Ist, 14:08. "Gaganyaan mission: First glimpse of 'Vyommitra', the humanoid for Gaganyaan; it's a 'She' | India News - Times of India". The Times of India. Retrieved 22 January 2020.
+ "ISRO's manned mission to Moon will happen, but not right now: K Sivan". The Indian Express. 22 January 2020. Retrieved 22 January 2020.
+ "'व्योममित्रा'ची पहिली झलक! भारताकडून 'ती' पहिल्यांदा जाणार अवकाशात". Loksatta (in Marathi). 22 January 2020. Retrieved 22 January 2020.
+ "ISRO's prototype humanoid for Gaganyaan mission is Vyom Mitra which will go to space before astronauts". www.timesnownews.com. 22 January 2020. Retrieved 22 January 2020.
+ Dwarakanath, Nagarjun (22 January 2020). "Gaganyaan mission: Meet Vyommitra, the talking human robot that Isro will send to space". India Today. Retrieved 22 January 2020.
+vte
+India Indian space programme
+Department of Space (DoS)
+Organisations	
+Indian Space Research Organisation (ISRO)Antrix CorporationIndian Institute of Space Science and Technology (IIST)Indian Institute of Remote Sensing (IIRS)Laboratory for Electro-Optics Systems (LEOS)National Atmospheric Research Laboratory (NARL)NewSpace India Limited (NSIL)Physical Research Laboratory (PRL)Development and Educational Communication Unit (DECU)Integrated Space CellDefence Space AgencyIndian National Space Promotion and Authorisation Centre (IN–SPACe)
+Indian Space Research Organisation Logo.svg
+Programmes	
+BhaskaraGAGANGSATINSATIRNSSIRS CartosatRISATRohiniSROSSChandrayaanHuman Spaceflight Programme
+Satellites	
+APPLEAryabhataHAMSATIMS-1Megha-TropiquesNISARSARALSouth Asia SatelliteSRESRE IIKalpana-1CARE
+Space observatories	
+AstrosatAditya-L1 (planned)XPoSat (planned)AstroSat-2 (proposed)
+Lunar and
+planetary spacecraft	
+Chandrayaan-1Chandrayaan-2Chandrayaan-3 (planned, 2022)Lunar Polar Exploration Mission (proposed)Mars Orbiter MissionMars Orbiter Mission 2 (proposed)Shukrayaan-1 (proposed)
+Crewed spacecraft	
+Gaganyaan (Under development)
+Rockets	
+Engines CE-7.5CE-20VikasOrbital SLVASLVPSLV LaunchesGSLV Mk IMk II LaunchesMk IIISuborbital RohiniATVConcepts ULVUnder development RLV Technology Demonstration Programme RLV-TDHEXSSLVSCE-200
+Facilities	
+Indian Deep Space Network (IDSN)ISRO Satellite Centre (ISAC)ISRO Telemetry, Tracking and Command Network (ISTRAC)Master Control Facility (MCF)Satish Dhawan Space Centre (SDSC)Thumba Equatorial Rocket Launching Station (TERLS)ISRO Satellite Integration and Testing Establishment (ISITE)Vikram Sarabhai Space Center (VSSC)Liquid Propulsion Systems Centre (LPSC)ISRO Propulsion ComplexHuman Space Flight Centre (HSFC)
+Legislation and policy	
+Space Activities BillSpace policy of India Draft Spacecom Policy 2020SpaceRP Policy 2020Technology Transfer Policy and Guidelines
+Private companies	
+PixxelSkyroot AerospaceSatellizeAgniKul CosmosDhruva SpaceBellatrix AerospaceTeamIndus
+Related	
+SAGA-220 (supercomputer)RESPOND
+List of Indian satellitesList of Satish Dhawan Space Centre launchesList of ISRO missionsList of ISRO chairpersons
+vte
+Indian spacecraft
+List of Indian satellitesList of Satish Dhawan Space Centre launchesList of ISRO missions
+Satellites	
+Communication	
+CMS CMS-01GSAT 123 (EDUSAT)45P66A77A89 (South Asia Satellite)101112141516171819293031HAMSATINSAT 1A1B1C1D2A2B2C2D2DT2E3A3B3C3D3DR3DS3E4A4B4C4CR4E4F4GPlanned: GSAT 20222324
+Earth observation	
+Bhaskara IIICartosat 122A2B2C2D2E2F3EMISATEOS EOS-01HySISIMS-1IRS 1A1B1C1D1EP1P2P3Megha-TropiquesMicrosat Microsat-ROceansat 12Resourcesat 12RISAT 122B2BR1Rohini RS-D1RS-D2SARALSCATSAT-1Technology Experiment Satellite (TESS)Planned: NISARGISATOceansat-3Resourcesat-3RISAT-1A
+Experimental	
+APPLEAryabhataRohini RS-1Rohini Technology Payload (RTP)
+Navigation	
+IRNSS 1A1B1C1D1E1F1G1I
+Student satellites	
+ANUSATJugnuSRMSATStudSat StudSat-2YouthSatPratham
+Aryabhata Satellite
+Space probes	
+Scientific	
+SROSS ABCC2
+Astronomical	
+AstrosatAditya-L1 (planned)XPoSat (planned)AstroSat-2 (planned)
+Lunar programme	
+Chandrayaan-1 Moon Impact ProbeChandrayaan-2 VikramPragyanChandrayaan-3 (planned)
+Interplanetary	
+Mars Orbiter MissionMars Orbiter Mission 2 (planned)Shukrayaan-1 (planned)
+Human
+spaceflight	
+Indian human spaceflight programme SRE-1SRE-IISRE-IIIGaganyaan CARE
+Future spacecraft in italics.
+vte
+Crewed spacecraft (programs)
+Active	
+China ShenzhouRussia SoyuzUnited States Crew DragonSpaceShipTwoNew Shepard
+Retired	
+Soviet Union VostokVoskhodBuranUnited States X-15MercuryGeminiApollo Command and service moduleApollo Lunar ModuleSpace ShuttleSpaceShipOne
+In development	
+China Next-generationIndia GaganyaanIran Kavoshgar ERussia OrelUnited States StarlinerOrionStarshipSpaceShip III
