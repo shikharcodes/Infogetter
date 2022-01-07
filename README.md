@@ -4,7 +4,7 @@ Infogetter is a text-based chatbot designed to assist a user who wants to search
 
 ## ⚙ Tech Stack used 
 * Python
-* NLTK Library
+* NLTK Library (Tokenization, Stemming and WordNet)
 
 The bot code file is written in a Jupyter notebook.
 
