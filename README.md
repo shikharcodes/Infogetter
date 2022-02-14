@@ -1,6 +1,6 @@
 # Infogetter 🤖
 
-Infogetter is a text-based chatbot designed to assist a user who wants to search for a particular piece of information from a large amount of data or article. It responds to the user based on the types of questions asked and gives appropriate responses to the questions which the user asks.
+Infogetter is a text-based chatbot designed to assist a user who wants to search for a particular piece of information from a large amount of data or article. It responds to the user based on the types of questions asked and gives appropriate responses to the questions asked by the user.
 
 ## ⚙ Tech Stack used 
 * Python
